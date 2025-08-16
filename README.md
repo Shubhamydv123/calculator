@@ -20,13 +20,10 @@ This calculator performs basic arithmetic operations like addition, subtraction,
 
 ## 📁 Folder Structure
 
-## 📷 Preview
-![Calculator Screenshot](preview.png)
-
 ## 👨‍💻 Author
 **Shubham Yadav**  
 📧 [sy8122403@gmail.com](mailto:sy8122403@gmail.com)  
-🔗 [linkedin.com/in/shubham-yadav-922b52253](https://linkedin.com/in/shubham-yadav-922b52253)
+🔗 [linkedin.com/in/shubham~yadav](https://linkedin.com/in/shubham~yadav)
 
 ---
 
